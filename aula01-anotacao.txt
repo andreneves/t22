@@ -1,0 +1,9 @@
+Baixar o Xampp:
+https://www.apachefriends.org/pt_br/index.html
+
+No computador:
+C:\xampp\htdocs\t22\aula01.php
+
+No navegador:
+http://localhost/t22/aula01.php
+
