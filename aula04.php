@@ -6,8 +6,10 @@
 $idade = 18;
 $estado = "RJ";
 
-if($idade == 18) {
-    echo("A idade é igual a 18 anos" . "<br>");
+if($idade == 19) {
+    echo("A idade é igual a 18 anos <br>");
+} else {
+    echo("A idade não é igual a 18 anos <br>");
 }
 
 
